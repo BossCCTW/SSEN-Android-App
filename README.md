@@ -7,4 +7,8 @@ This Android application is my tesis by the time in Tesis Bachelor of Engineerin
   
 ## Splashscreen
 pie chart library animation and button material design
-<a href="https://thumbs.gfycat.com/SoggySoupyIndianjackal-size_restricted.gif"><img src="https://thumbs.gfycat.com/SoggySoupyIndianjackal-size_restricted.gif" title="made at imgflip.com"/></a>
+
+
+<a href="https://thumbs.gfycat.com/SoggySoupyIndianjackal-size_restricted.gif" height="200px">
+<img src="https://thumbs.gfycat.com/SoggySoupyIndianjackal-size_restricted.gif" title="made at imgflip.com"/>
+</a>
