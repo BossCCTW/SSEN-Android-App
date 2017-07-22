@@ -8,4 +8,4 @@ This Android application is my tesis by the time in Tesis Bachelor of Engineerin
 ## Splashscreen
 pie chart library animation and button material design
 
-<div class='gfyitem' data-id=SoggySoupyIndianjackal></div>
+<iframe src='https://gfycat.com/ifr/SoggySoupyIndianjackal' frameborder='0' scrolling='no' width='390' height='688' allowfullscreen></iframe>
