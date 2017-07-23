@@ -37,3 +37,8 @@ save score credit all major and show user
 <a href="https://thumbs.gfycat.com/FailingLittleGalapagoshawk-size_restricted.gif" height="200px">
 <img src="https://thumbs.gfycat.com/FailingLittleGalapagoshawk-size_restricted.gif" title="made at imgflip.com"/>
 
+### calculate grade
+
+<a href="https://thumbs.gfycat.com/LastingCompetentCottontail-size_restricted.gif" height="200px">
+<img src="https://thumbs.gfycat.com/LastingCompetentCottontail-size_restricted.gif" title="made at imgflip.com"/>
+
