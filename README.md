@@ -16,3 +16,8 @@ Use Pie chart library and set animation start activity and button material desig
 <img src="https://thumbs.gfycat.com/BonyEmptyHectorsdolphin-size_restricted.gif" title="made at imgflip.com"/>
 
 
+## Features
+ ### Add Term Year
+ select data from dropdown  and save in sqlite after that select data from sqlit to listview and set animation slide show
+ <a href=" https://thumbs.gfycat.com/DisfiguredBlondCalf-size_restricted.gif" height="200px">
+<img src=" https://thumbs.gfycat.com/DisfiguredBlondCalf-size_restricted.gif" title="made at imgflip.com"/>
