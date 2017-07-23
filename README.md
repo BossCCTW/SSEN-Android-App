@@ -22,3 +22,10 @@ Use Pie chart library and set animation start activity and button material desig
  
 <a href="https://thumbs.gfycat.com/DisfiguredBlondCalf-size_restricted.gif" height="200px">
 <img src="https://thumbs.gfycat.com/DisfiguredBlondCalf-size_restricted.gif" title="made at imgflip.com"/>
+
+### Searching major and add major in year
+<a href="https://thumbs.gfycat.com/MadHappygoluckyLark-size_restricted.gif" height="200px">
+<img src="https://thumbs.gfycat.com/MadHappygoluckyLark-size_restricted.gif" title="made at imgflip.com"/>
+
+### show all major detail
+
