@@ -42,3 +42,8 @@ save score credit all major and show user
 <a href="https://thumbs.gfycat.com/LastingCompetentCottontail-size_restricted.gif" height="200px">
 <img src="https://thumbs.gfycat.com/LastingCompetentCottontail-size_restricted.gif" title="made at imgflip.com"/>
 
+### class schedule
+add  delete learnning Hours
+
+<a href="https://thumbs.gfycat.com/BoldTallChick-size_restricted.gif" height="200px">
+<img src="https://thumbs.gfycat.com/BoldTallChick-size_restricted.gif" title="made at imgflip.com"/>
