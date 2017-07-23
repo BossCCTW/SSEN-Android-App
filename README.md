@@ -47,3 +47,9 @@ add  delete learnning Hours
 
 <a href="https://thumbs.gfycat.com/BoldTallChick-size_restricted.gif" height="200px">
 <img src="https://thumbs.gfycat.com/BoldTallChick-size_restricted.gif" title="made at imgflip.com"/>
+
+### tap activity
+pie chart Major Detailed information,Save data learning save working and set alert time ,link webview
+
+<a href="https://thumbs.gfycat.com/AjarThoughtfulAquaticleech-size_restricted.gif" height="200px">
+<img src="https://thumbs.gfycat.com/AjarThoughtfulAquaticleech-size_restricted.gif" title="made at imgflip.com"/>
