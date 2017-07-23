@@ -32,6 +32,7 @@ Use Pie chart library and set animation start activity and button material desig
 <img src="https://thumbs.gfycat.com/BlandWastefulAkitainu-size_restricted.gif" title="made at imgflip.com"/>
 
 ### bottom sheet
+save score credit all major and show user
 <a href="https://thumbs.gfycat.com/FailingLittleGalapagoshawk-size_restricted.gif" height="200px">
 <img src="https://thumbs.gfycat.com/FailingLittleGalapagoshawk-size_restricted.gif" title="made at imgflip.com"/>
 
