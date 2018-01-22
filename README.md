@@ -1,4 +1,4 @@
-# SSEN-APP
+# SSEN-Android-App
 This Android application is my tesis by the time in Tesis Bachelor of Engineering
 
  ## ABSTRACT 
