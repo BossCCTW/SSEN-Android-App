@@ -8,10 +8,6 @@ This Android application is my tesis by the time in Tesis Bachelor of Engineerin
 ## Splashscreen
 Use Pie chart library and set animation start activity and button material design
 
-<a href="https://thumbs.gfycat.com/SoggySoupyIndianjackal-size_restricted.gif" height="200px">
-<img src="https://thumbs.gfycat.com/SoggySoupyIndianjackal-size_restricted.gif" title="made at imgflip.com"/>
-
-
 <a href="https://thumbs.gfycat.com/BonyEmptyHectorsdolphin-size_restricted.gif" height="200px">
 <img src="https://thumbs.gfycat.com/BonyEmptyHectorsdolphin-size_restricted.gif" title="made at imgflip.com"/>
 
