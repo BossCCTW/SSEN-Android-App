@@ -33,11 +33,10 @@ save score credit all major and show user
 
 ### class schedule
 add  delete learnning Hours
-<p align="center"> <img src="https://thumbs.gfycat.com/BoldTallChick-size_restricted.gif" align="center" width="35%" height="auto"/></p>
+<p align="center"> <img src="https://thumbs.gfycat.com/BoldTallChick-size_restricted.gif" align="center" width="60%" height="auto"/></p>
 
 
 ### tap activity
 pie chart Major Detailed information,Save data learning save working and set alert time ,link webview
+<p align="center"> <img src="https://thumbs.gfycat.com/AjarThoughtfulAquaticleech-size_restricted.gif" align="center" width="35%" height="auto"/></p>
 
-<a href="https://thumbs.gfycat.com/AjarThoughtfulAquaticleech-size_restricted.gif" height="200px">
-<img src="https://thumbs.gfycat.com/AjarThoughtfulAquaticleech-size_restricted.gif" title="made at imgflip.com"/>
