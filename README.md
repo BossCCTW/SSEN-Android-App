@@ -16,8 +16,7 @@ Use Pie chart library and set animation start activity and button material desig
  ### Add Term Year
  select data from dropdown  and save in sqlite after that select data from sqlit to listview and set animation slide show
  
-
-<p align="center"> <img src="https://thumbs.gfycat.com/DisfiguredBlondCalf-size_restricted.gif" align="center" width="50%" height="auto"/></p>
+<p align="center"> <img src="https://thumbs.gfycat.com/DisfiguredBlondCalf-size_restricted.gif" align="center" width="200px" height="auto"/></p>
  
 ### Searching major and add major in year
 <a href="https://thumbs.gfycat.com/MadHappygoluckyLark-size_restricted.gif" height="200px">
