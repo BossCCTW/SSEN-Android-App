@@ -17,29 +17,24 @@ Use Pie chart library and set animation start activity and button material desig
 <p align="center"> <img src="https://thumbs.gfycat.com/DisfiguredBlondCalf-size_restricted.gif" align="center" width="35%" height="auto"/></p>
  
 ### Searching major and add major in year
-<a href="https://thumbs.gfycat.com/MadHappygoluckyLark-size_restricted.gif" height="200px">
-<img src="https://thumbs.gfycat.com/MadHappygoluckyLark-size_restricted.gif" title="made at imgflip.com"/>
 
+<p align="center"> <img src="https://thumbs.gfycat.com/MadHappygoluckyLark-size_restricted.gif" align="center" width="35%" height="auto"/></p>
+ 
 ### show all major detail
-<a href="https://thumbs.gfycat.com/BlandWastefulAkitainu-size_restricted.gif" height="220px">
-<img src="https://thumbs.gfycat.com/BlandWastefulAkitainu-size_restricted.gif" title="made at imgflip.com"/>
 
+<p align="center"> <img src="https://thumbs.gfycat.com/BlandWastefulAkitainu-size_restricted.gif" align="center" width="35%" height="auto"/></p>
+ 
 ### bottom sheet
 save score credit all major and show user
-
-<a href="https://thumbs.gfycat.com/FailingLittleGalapagoshawk-size_restricted.gif" height="200px">
-<img src="https://thumbs.gfycat.com/FailingLittleGalapagoshawk-size_restricted.gif" title="made at imgflip.com"/>
+<p align="center"> <img src="https://thumbs.gfycat.com/FailingLittleGalapagoshawk-size_restricted.gif" align="center" width="35%" height="auto"/></p>
 
 ### calculate grade
-
-<a href="https://thumbs.gfycat.com/LastingCompetentCottontail-size_restricted.gif" height="200px">
-<img src="https://thumbs.gfycat.com/LastingCompetentCottontail-size_restricted.gif" title="made at imgflip.com"/>
+<p align="center"> <img src="https://thumbs.gfycat.com/LastingCompetentCottontail-size_restricted.gif" align="center" width="35%" height="auto"/></p>
 
 ### class schedule
 add  delete learnning Hours
+<p align="center"> <img src="https://thumbs.gfycat.com/BoldTallChick-size_restricted.gif" align="center" width="35%" height="auto"/></p>
 
-<a href="https://thumbs.gfycat.com/BoldTallChick-size_restricted.gif" height="200px">
-<img src="https://thumbs.gfycat.com/BoldTallChick-size_restricted.gif" title="made at imgflip.com"/>
 
 ### tap activity
 pie chart Major Detailed information,Save data learning save working and set alert time ,link webview
